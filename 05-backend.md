@@ -10,7 +10,7 @@ Let's set this up using mockAPI.io:
 
    Sign-in/sign-up as needed to log in.
 
-1. Select **New Project**:
+2. Select **New Project**:
 
    ![New Project](images/new_project.png)
 
@@ -26,9 +26,9 @@ Let's set this up using mockAPI.io:
 
    ![New Resource](images/new_resource.png)
 
-1. Fill in the **Schema** section as shown below:
+   (``ciscoliveEMEA2024`` is just an example)
 
-
+2. Fill in the **Schema** section as shown below:
    ![Resource Schema](images/resource_schema.png)
 
 1. Click on **Create**.
@@ -41,28 +41,29 @@ You can ask mockAPI to create sample data automatically.
 
    ![Sample Data](images/sample_data.png)
 
-1. Click on **Data**.
+2. Click on **Data**.
 
    You will see all the records that have been created. 
    
-1. For this lab, you need to update the first record with the WhatsApp mobile number you will use later, here's an example:
+3. For this lab, you need to update the first record with the WhatsApp mobile number you will use later, here's an example:
 
-   ```js
+```js
    {
-       "name": "Lab Customer",
-       "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/465.jpg",
-       "mobileNumber": "34639793462",
-       "address": "01490 Edna Bridge",
-       "city": "Barcelona",
-       "country": "Spain",
-       "email": "labcustomer@domain.com",
-       "videoCallScheduled": false,
-       "id": "1"
+      "name": "Victor Vazquez",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg",
+      "mobileNumber": "34XXXXXXXXX",
+      "address": "6002 Roob Lodge",
+      "city": "Barcelona",
+      "country": "Spain",
+      "email": "Angie17@hotmail.com",
+      "videoCallSheduled": true,
+      "specialist": "Dr Julia Smith",
+      "id": "1"
    }
-   ```
+```
    **IMPORTANT**: `mobileNumber` must include country code, and must **NOT** include '`+`'
 
-1. Click on the small resource name link:
+4. Click on the small resource name link:
 
    ![Endpoint API](images/endpoint_api.png)
 

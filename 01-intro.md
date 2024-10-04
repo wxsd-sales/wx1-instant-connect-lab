@@ -12,11 +12,13 @@ In this lab we will cover:
 
 * Designing, configuring and testing a Webex Connect flow, ready to be used for a real business use case
 
-The objective is to create a Webex Connect flow that can be always ready for demonstrations, and easily reused in projects across various verticals.
+The objective is to create a Webex Connect flow for a healthcare use case. If you are interested in a generic flow, that can be easily reused across verticals, please go to this [lab](https://developer.cisco.com/learning/labs/webex-connect-instant-connect/introduction/).
+
 
 ## Prerequisites
 
-* Webex ORG with Webex Meetings and Webex Instact Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
+* Webex ORG with Webex Meetings and Webex Instan
+t Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
 
 * Webex Connect tenant: You can get a developer sandbox for free at: https://developer.webex.com/docs/webex-connect
 
@@ -28,4 +30,3 @@ The objective is to create a Webex Connect flow that can be always ready for dem
 * An HTML5 capable web browser, e.g. Firefox/Chrome/Safari/Edge
 
 * Postman app installed, you can download it [here.](https://www.postman.com/downloads/)
-

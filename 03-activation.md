@@ -1,4 +1,4 @@
-# Webex Instant Connect activation
+# Webex Instant Connect configuration
 
 Log in https://instant.webex.com as a Webex administrator in your Webex ORG, and:
 
@@ -10,5 +10,9 @@ Log in https://instant.webex.com as a Webex administrator in your Webex ORG, and
 
 Now you are ready to learn how to use Webex Instant Connect API!
 
+You can also configure Instant Connect appearance by adding your organization name and logo. For this healthcare example:
+1. Go to **Appearance**, change the **Organization Name**
+2. Click on **Change Logo**, and use the pictures provided: [small](<images/hospital logo small.png>) and [big](<images/hospital logo big.png>).
 
 
+<img src="images/ic-appearance.png" width="600">

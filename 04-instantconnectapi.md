@@ -14,9 +14,14 @@ You have two options:
 
 In this lab you will use a bot token.
 
-1. Follow [these instructions](https://developer.webex.com/docs/bots) to create a bot in your Webex ORG, copy the token to a safe place, and save it for later. 
+## Create your BOT
+1. Go to https://developer.webex.com/docs/bots and click on **Create a Bot**
+2. Select your Bot name (for example 'Video Expert), and an icon of choice. 
+3. Choose your bot username, this has to be unique. For example, you could do something 'lab-wx1-_yourusername_'
+4. **App Hub Description**: we won't be publishing this bot to App Hub, but it is a good practice to add a meaningful description that will help you remember the purpose of the bot. For example, you can type something like '_this is the bot used for my wx1 lab 2857: _'Webex Connect with Instant Connect for video customer interactions'_
+5.Click on **Add Bot** and **Copy your token!!** to a safe place, we will use later:
+![alt text](images/bot-token.png)
 
-1. Name your bot 'Video Escalation' or something similar.
 
 ## Create a Postman Request to Get the Meetings List
 
@@ -100,7 +105,7 @@ Forming the meeting links is as simple as taking the `baseUrl` value and concate
 
 In this example, `https://instant.webex.com/visit/oCVp2LD` for the host and `https://instant.webex.com/visit/ckmNR7I` for the guest.
 
-Now you only need to share the host URL with the expert providing support, and the guest URL with the end customer asking for support!
+Now you only need to share the host URL with the expert providing support, and the guest URL with the end customer asking for support !!
 
 This can be done by email, SMS, be integrated into some web portal, CRM, EMR, etc. In the next steps, you will learn how to do it in a digital channel like WhatsApp using Webex Connect.
 
