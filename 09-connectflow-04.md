@@ -121,4 +121,4 @@ Then you only need to change the **Event Name** to `List Message`, rename the no
 
 Now we are ready to create the meetings links and share them!
 
-[Go to the Next section](./10-connectflow-10.md)
+[Go to the Next section](./10-connectflow-05.md)

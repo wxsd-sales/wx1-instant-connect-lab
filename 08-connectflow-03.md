@@ -147,4 +147,4 @@ The surgery date could also be a CRM value. In this learning exercise, we will s
     ![Reply Buttons Node](images/reply-node.png)
 
 
-[Go to the Next section](./07-connectflow-04.md)
+[Go to the Next section](./09-connectflow-04.md)
