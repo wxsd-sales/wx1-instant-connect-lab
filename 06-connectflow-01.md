@@ -66,3 +66,5 @@ Add a **WhatsApp** node to the canvas, and connect it to the **Configure WhatsAp
 
    
 [Go to the Next section](./07-connectflow-02.md)
+
+[Go to the Table of Contents](README.md#table-of-contents)

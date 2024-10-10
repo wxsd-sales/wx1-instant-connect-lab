@@ -111,3 +111,5 @@ This can be done by email, SMS, be integrated into some web portal, CRM, EMR, et
 
 [Go to the Next section](./05-backend.md)
 
+[Go to the Table of Contents](README.md#table-of-contents)
+

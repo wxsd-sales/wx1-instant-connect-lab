@@ -32,3 +32,5 @@ WhatsApp is a rich channel supporting not only text but also images, videos and 
    **Save** your flow. It is a good practice to save it while you are building it.
 
 [Go to the Next section](./08-connectflow-03.md)
+
+[Go to the Table of Contents](README.md#table-of-contents)

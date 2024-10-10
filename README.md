@@ -31,4 +31,19 @@ t Connect enabled. You can get a developer sandbox for free at: https://develope
 
 * Postman app installed, you can download it [here.](https://www.postman.com/downloads/)
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+
+2. [Webex Instant Connect Overview](02-overview.md#webex-instant-connect-overview)
+
+3. [Webex Instant Connect Configuration](03-activation.md#webex-instant-connect-configuration)
+
+4. [Backend Preparation](05-backend.md#backend-preparation)
+
+5. [Webex Connect Flow](06-connectflow-01.md#webex-connect-flow)
+
+6. [Testing the Flow](0X-testingflow.md#testing-the-flow)
+
+***
 [Go to the Next section ](./02-overview.md) 

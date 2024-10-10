@@ -78,9 +78,7 @@ Let's set this up using mockAPI.io:
 
 [Go to the Next section](./06-connectflow-01.md)
 
-
-
-
+[Go to the Table of Contents](README.md#table-of-contents)
 
 
 
