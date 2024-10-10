@@ -1,6 +1,6 @@
 # Webex Instant Connect API
 
-Now, let's build Instant Connect (IC) meeting links programatically!
+Now, let's build Instant Connect (IC) meeting links programmatically!
 
 ## Get an Access Token
 
@@ -92,7 +92,7 @@ You should have received a body like this in the API response:
     ],
     "guest": [
         {
-            "cipher": "eyJwMnMiOiJEQVdaOHZS...RDTvlZ-aLLRdIMSmCwEc",
+            "cipher": "eyJwMnMiOiJEQVdaHOBS...RDTvlZ-aLLRdIMSmCwEc",
             "short": "ckmNR7I"
         }
     ],
@@ -109,7 +109,5 @@ Now you only need to share the host URL with the expert providing support, and t
 
 This can be done by email, SMS, be integrated into some web portal, CRM, EMR, etc. In the next steps, you will learn how to do it in a digital channel like WhatsApp using Webex Connect.
 
-
-
-
+[Go to the Next section](./05-backend.md)
 

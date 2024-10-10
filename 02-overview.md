@@ -14,4 +14,4 @@ For more information, visit:
 
 * [Webex Instant Connect @ Webex Help Center](https://help.webex.com/en-us/article/sv0h2ab/Webex-Instant-Connect)
 
-
+[Go to the Next section](./03-activation.md)
