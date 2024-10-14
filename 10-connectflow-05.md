@@ -101,7 +101,4 @@ Next we will use the [Webex messaging API](https://developer.webex.com/docs/api/
                 }  
     - Rename the node to 'Offer host URL to expert' and **Save** it
 
-[Go to the Next section](./11-connectflow-06.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)
 

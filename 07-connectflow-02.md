@@ -30,7 +30,3 @@ WhatsApp is a rich channel supporting not only text but also images, videos and 
    We will be able to reference the Customer Name in any node in the flow using the variable ``$(companyName)``. WhatsApp (and the Webex Connect implementation of the WhatsApp) node supports emojis, and formatting text as bold (using *).
 
    **Save** your flow. It is a good practice to save it while you are building it.
-
-[Go to the Next section](./08-connectflow-03.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)

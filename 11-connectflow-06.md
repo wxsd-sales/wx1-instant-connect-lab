@@ -36,9 +36,9 @@ We need to know the `{userId}` for the record we want to update. We got this val
 
 - Rename the node to 'Update CRM', and **Save** it
 
-Now we are ready to [test our flow](./12-testingflow.md) !
+Now we are ready to test our flow !
 
-[Go to the Table of Contents](README.md#table-of-contents)
+
 
 
 

@@ -111,8 +111,3 @@ In this example, `https://instant.webex.com/visit/oCVp2LD` for the host and `htt
 Now you only need to share the host URL with the expert providing support, and the guest URL with the end customer asking for support !!
 
 This can be done by email, SMS, be integrated into some web portal, CRM, EMR, etc. In the next steps, you will learn how to do it in a digital channel like WhatsApp using Webex Connect.
-
-[Go to the Next section](./05-backend.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)
-

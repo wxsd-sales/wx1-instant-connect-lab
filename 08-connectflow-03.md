@@ -147,8 +147,3 @@ The surgery date could also be a CRM value. In this learning exercise, we will s
     Rename the node to something like 'Reminder', and save it.
 
     ![Reply Buttons Node](images/reply-node.png)
-
-
-[Go to the Next section](./09-connectflow-04.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)

@@ -45,6 +45,3 @@ The objective is to create a Webex Connect flow for a healthcare use case.
 5. [Webex Connect Flow](06-connectflow-01.md#webex-connect-flow)
 
 6. [Testing the Flow](0X-testingflow.md#testing-the-flow)
-
-***
-[Go to the Next section ](./02-overview.md) 

@@ -18,7 +18,3 @@ You can also configure Instant Connect appearance by adding your organization na
 
 
 <img src="images/ic-appearance.png" width="600">
-
-[Go to the Next section](./04-instantconnectapi.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)

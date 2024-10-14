@@ -58,8 +58,3 @@ Add a **WhatsApp** node to the canvas, and connect it to the **Configure WhatsAp
    ![Connecting nodes](images/connect-nodes.png)
 
    > **Note:** You can check the node number on the bottom-left corner of the node configuration screen, or by clicking the **Debug** button once you have a live version of the flow.
-
-   
-[Go to the Next section](./07-connectflow-02.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)

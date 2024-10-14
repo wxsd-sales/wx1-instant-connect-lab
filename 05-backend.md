@@ -76,11 +76,6 @@ Let's set this up using mockAPI.io:
    `https://xxxxxxxxxxxxxxxxxxxxxxxx.mockapi.io/ciscoliveEMEA2024`
 
 
-[Go to the Next section](./06-connectflow-01.md)
-
-[Go to the Table of Contents](README.md#table-of-contents)
-
-
 
 
 
