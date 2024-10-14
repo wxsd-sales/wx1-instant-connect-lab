@@ -10,7 +10,7 @@ You will need a Webex API access token to make calls to the IC API. You have two
 
 * A bot token for production use.
 
-In this lab you will use a bot token.
+In this lab we will use a bot token.
 
 ## Create your BOT
 1. Go to https://developer.webex.com/docs/bots and click on **Create a Bot**

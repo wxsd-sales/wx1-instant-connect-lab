@@ -45,7 +45,7 @@ Let's set this up using mockAPI.io:
 
    You will see all the records that have been created. 
    
-3. For this lab, you need to update the first record with the WhatsApp mobile number you will use later, here's an example:
+3. For this lab, you need to update the first record with the WhatsApp mobile number, we will use later, here's an example:
 
 ```js
    {
