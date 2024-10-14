@@ -12,7 +12,7 @@ In this lab we will cover:
 
 * Designing, configuring and testing a Webex Connect flow, ready to be used for a real business use case
 
-The objective is to create a Webex Connect flow for a healthcare use case. If you are interested in a generic flow, that can be easily reused across verticals, please go to this [lab](https://developer.cisco.com/learning/labs/webex-connect-instant-connect/introduction/).
+The objective is to create a Webex Connect flow for a healthcare use case.
 
 
 ## Prerequisites
