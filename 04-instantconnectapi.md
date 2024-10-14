@@ -1,12 +1,10 @@
 # Webex Instant Connect API
 
-Now, let's build Instant Connect (IC) meeting links programmatically!
+Now, let's build Instant Connect (IC) meeting links programmatically.
 
 ## Get an Access Token
 
-You will need an Webex API access token to make calls to the IC API.
-
-You have two options:
+You will need a Webex API access token to make calls to the IC API. You have two options:
 
 * Your personal token for development purposes.
 
@@ -16,11 +14,16 @@ In this lab you will use a bot token.
 
 ## Create your BOT
 1. Go to https://developer.webex.com/docs/bots and click on **Create a Bot**
-2. Select your Bot name (for example 'Video Expert), and an icon of choice. 
+
+2. Select your Bot name (for example 'Video Expert'), and an icon of your choice. 
+
 3. Choose your bot username, this has to be unique. For example, you could do something 'lab-wx1-_yourusername_'
-4. **App Hub Description**: we won't be publishing this bot to App Hub, but it is a good practice to add a meaningful description that will help you remember the purpose of the bot. For example, you can type something like '_this is the bot used for my wx1 lab 2857: _'Webex Connect with Instant Connect for video customer interactions'_
-5.Click on **Add Bot** and **Copy your token!!** to a safe place, we will use later:
-![alt text](images/bot-token.png)
+
+4. **App Hub Description**: we won't be publishing this bot to App Hub, but it is a good practice to add a meaningful description that will help you remember the purpose of the bot. For example, you can type something like '_This is the bot used for my wx1 lab 2857: 'Webex Connect with Instant Connect for video customer interactions_'
+
+5. Click on **Add Bot** and **Copy your token!!** to a safe place, we will use later:
+
+![Bot token](images/bot-token.png)
 
 
 ## Create a Postman Request to Get the Meetings List

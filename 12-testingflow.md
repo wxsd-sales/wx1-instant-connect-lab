@@ -17,15 +17,15 @@ Click on **MAKE LIVE**, and select your WhatsApp application (typically 'Sandbox
 
 Send a WhatsApp message with the text `instantconnect` to your Tenant WhatsApp number. This is the experience that you should get:
 
-![Flow execution 1](images/IMG_3935.PNG)
+<img src="images/IMG_3935.PNG" width="300">
 
-![Flow execution 2](images/IMG_3936.PNG)
+<img src="images/IMG_3936.PNG" width="300">
 
 ## Checking the Flow
 
 As you through the WhatsApp conversation, you should see:
 
-- The customer name read from mockAPI used in the Surgery reminder WhatsAppp message to the customer, and in the Webex message to the expert
+- The customer name read from mockAPI used in the Surgery reminder WhatsApp message to the customer, and in the Webex message to the expert
 
 - The date properly set to two days in the future
 
@@ -42,21 +42,21 @@ the WhatsApp list
 
    Try some of the Webex Instant Connect features, such as:
 
-- Video call control (mute/unmute, turn your video on/off, ..). 
+    - Video call control (mute/unmute, turn your video on/off, ..). 
 
-- Meeting end: guest can leave the meeting at any time, host can leave without ending, or end meeting for all
+    - Meeting end: guest can leave the meeting at any time, host can leave without ending, or end meeting for all
 
-- Change the video Layout
+    - Change the video Layout
 
-- Share your screen
+    - Share your screen
 
-- Blur your background
+    - Blur your background
 
-- Remove background Noise
+    - Remove background Noise
 
-- See the list of participants, and invite new guests
+    - See the list of participants, and invite new guests 
 
-- Chat
+    - Chat
 
 For more information, visit [Webex Instant Connect @ Webex Help Center](https://help.webex.com/en-us/article/sv0h2ab/Webex-Instant-Connect).
 

@@ -34,13 +34,13 @@ First, we will get the customer name from our backend mockAPI.
 
 4. Add a **Data Parser** node, and connect it to the **HTTP Request Node**. This will allow you to parse the data received from mockAPI, to be used later in any node in the flow.
 
-   - For **Input: Import Data From**: under the **Input Variables** section to the right, select the `http.response.body` variable from the previous **HTTP Request** node `Get Customer Name From` configured in the previous step:
+   - For **Input: Import Data From**: under the **Input Variables** section to the right, select the `http.response.body` variable from the previous **HTTP Request** node 'Get Customer Name From' configured in the previous step:
 
     ![Data Parser](images/data-parser-new.png)
 
     > **Note:** Node number may be different than shown above.
 
-    - Now, we will populate **Sample Body (optional)** with some JSON the exemplifies the data we expect to be parsing.
+    - Now, we will populate **Sample Body (optional)** with some JSON that exemplifies the data we expect to be parsing.
 
         There are different ways to get such sample data. Usually, there are examples available on the documentation of the CRM/backend system you want to integrate with; or, you could perform the same `GET` request that the **HTTP Request** node executing in a tool like Postman, and then copy the response body.
    
@@ -123,6 +123,8 @@ The surgery date could also be a CRM value. In this learning exercise, we will s
         This will generate a date two days in the future in the format `DD/MM/YYYY`
         
     - Create a Custom Variable with `surgeryDate` as **Variable Name**, you can leave the **Default Value** empty.
+
+    - Set **Script Output** to `1`, and **Branch Name** to `success`
     
     - Rename this Evaluate Node to something like 'Get Surgery Date'
 

@@ -28,7 +28,7 @@ Similarly to what we did previously in the [Webex Instant Connect API](04-instan
                 "verticalType": "hc",
                 "loginUrlForHost": false
             }
-        With the option `verticalType` = `hc` , Instant Connect user interface will be customized automatically for a Healthcare use case.
+        With the option `verticalType` = `hc` , Instant Connect user interface will be automatically customized for a Healthcare use case.
 
 - Rename the node to 'Create meeting links' and **Save** it
 
@@ -80,8 +80,10 @@ Next we will use the [Webex messaging API](https://developer.webex.com/docs/api/
 
 1. Let's create some Custom Variables
 
-    - Create one named `WebexAPI`and give it the value `https://webexapis.com/v1``
+    - Create one named `WebexAPI`and give it the value `https://webexapis.com/v1`
     - Create a second Custom Variable called `expertEmail`. Flow will be sending the host url to this user a Webex message.
+
+    In a real project, normally there is a process or system in place to choose the best expert for a given customer or interaction. In this case, the expert is a static value.
 
 2. Add an **HTTP Request** node to the canvas, and connect it to the previous **WhatsApp** node.
 

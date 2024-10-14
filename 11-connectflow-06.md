@@ -1,14 +1,15 @@
 # Update CRM
 
-Per the [mockAPI.io API documentation](https://github.com/mockapi-io/docs/wiki/Quick-start-guide), the way to update a record is:
+According to the [mockAPI.io API documentation](https://github.com/mockapi-io/docs/wiki/Quick-start-guide), the way to update a record is:
 
 ![mockAPI Update Record](images/mockio_update_record.png)
 
-We need to know the `{userId}` for the record we want to update. We got this value in the http request response we did in [this section](08-connectflow-03.md#get-customer-data), let's see how we can use this value at ay time in the flow:
+We need to know the `{userId}` for the record we want to update. We got this value in the response of the http request we did in [this section](08-connectflow-03.md#get-customer-data), let's see how we can use this value at ay time in the flow:
 
 1. Get the 'mockAPI' **Data Parser** node number, there are several ways of doing this:
 
     - Clicking on **NOTES** icon
+    
     ![Notes Icon](images/notes-icon.png)
 
     - You can also double-click on the node, you will see the node number at the bottom left

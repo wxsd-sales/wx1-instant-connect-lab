@@ -17,8 +17,7 @@ The objective is to create a Webex Connect flow for a healthcare use case. If yo
 
 ## Prerequisites
 
-* Webex ORG with Webex Meetings and Webex Instan
-t Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
+* Webex ORG with Webex Meetings and Webex Instant Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
 
 * Webex Connect tenant: You can get a developer sandbox for free at: https://developer.webex.com/docs/webex-connect
 

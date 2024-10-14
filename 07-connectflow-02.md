@@ -1,6 +1,6 @@
 # Welcome message
 
-WhatsApp is a rich channel supporting not only text but also images, videos and document sharing. Configure this new **WhatsApp** node to send a short Welcome message to the customer along with an image:
+WhatsApp is a rich channel supporting not only text but also images, videos and document sharing. Configure (double click) this new **WhatsApp** node to send a short Welcome message to the customer along with an image:
 
    - Destination Type = `WA ID`
    - Message Type = `MEDIA`
@@ -9,7 +9,7 @@ WhatsApp is a rich channel supporting not only text but also images, videos and 
    - Payload = `https://instant.webex.com/0be9c8abdd9f74e39241b23c29e54646.jpg`
 
    Now let's see how easy it is to work with variables in Webex Connect:
-   As **Destination**, you need to have the customer mobile number. You can get it by clicking on **Start** and selecting ``whatsapp.waId`` at the upper right part of the screen:
+   as **Destination**, we need to have the customer mobile number. We can get it by clicking on **Start** and selecting ``whatsapp.waId`` under **Input Variables** in the upper right part of the screen:
 
    ![First WA Node](images/first_wa_node.png)
 
@@ -27,7 +27,7 @@ WhatsApp is a rich channel supporting not only text but also images, videos and 
 
    ![alt text](images/welcome.png)
 
-   You will be able to reference the Customer Name in any node in the flow using the variable ``$(companyName)``. WhatsApp (and the Webex Connect implementation of the WhatsApp) node supports emojis, and formatting text as bold (using *).
+   We will be able to reference the Customer Name in any node in the flow using the variable ``$(companyName)``. WhatsApp (and the Webex Connect implementation of the WhatsApp) node supports emojis, and formatting text as bold (using *).
 
    **Save** your flow. It is a good practice to save it while you are building it.
 

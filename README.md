@@ -17,12 +17,11 @@ The objective is to create a Webex Connect flow for a healthcare use case. If yo
 
 ## Prerequisites
 
-* Webex ORG with Webex Meetings and Webex Instan
-t Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
+* Webex ORG with Webex Meetings and Webex Instant Connect enabled. You can get a developer sandbox for free at: https://developer.webex.com/docs/developer-sandbox-guide
 
 * Webex Connect tenant: You can get a developer sandbox for free at: https://developer.webex.com/docs/webex-connect
 
-  > **Note:** If this is your first time using Webex Connect, you may want to try out the [Hands-On Building Webex Connect Flows](https://developer.cisco.com/learning/labs/webex-connect-flows/) lab first.
+
 * MockAPI account, sign in here: https://mockapi.io/signup
 
 * Basic understanding of JSON
