@@ -1,8 +1,6 @@
 # Webex Connect Flow
 
-The objective is to create a Webex Connect flow for a healthcare use case. We will do it in sections.
-
-**Table of Contents**
+The objective is to create a Webex Connect flow for a healthcare use case. We will do it in sections:
 
 1. [Introduction](#introduction)
 2. [Create a new blank flow](#create-a-new-blank-flow)
